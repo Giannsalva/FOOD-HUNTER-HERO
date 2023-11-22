@@ -1,2 +1,2 @@
 # FOOD-HUNTER-HERO
-TP FINAL SEMINARIO
+App de android con el fin de simular una caza (compra) de artículos
